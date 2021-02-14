@@ -6,6 +6,8 @@ Windscribe VPN UI interface for Windscribe VPN
     Tested on Ubuntu 20, built with gtkmm3.0.
     
     Executable Main file in Release path
+    
+    https://github.com/shawndfernandes/WindscribeVPN-UI/releases/tag/1.0
 
 Instructions:
 
