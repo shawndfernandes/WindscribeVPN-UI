@@ -4,6 +4,8 @@ Windscribe VPN UI interface for Windscribe VPN
     A convienient UI tool to trigger Windscribe VPN cli commands via UI.
 
     Tested on Ubuntu 20, built with gtkmm3.0.
+    
+    Executable Main file in Release path
 
 Instructions:
 
